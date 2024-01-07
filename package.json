@@ -1,0 +1,20 @@
+{
+  "name": "lrf",
+  "version": "0.1.0",
+  "description": "Low-overhead reactive frontend-framework",
+  "main": "lrf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeiMinaev/lrf.git"
+  },
+  "keywords": [],
+  "author": "Sergei Minaev",
+  "license": "BSD 2-Clause License",
+  "bugs": {
+    "url": "https://github.com/SergeiMinaev/lrf/issues"
+  },
+  "homepage": "https://github.com/SergeiMinaev/lrf#readme"
+}
